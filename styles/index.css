@@ -92,4 +92,56 @@ background-color: white;
     text-align: center;
     margin-top: 80px;
 }
-
+.inspiration-container{
+    width: 500px;
+    margin-left: 150px;
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    margin-top: 48px;
+    height: 300px; 
+}
+.inspiration-title{
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    margin-left: 40px;
+}
+.inspiration-description{
+    color: #757575;
+    margin-bottom: 24px;
+    margin-left: 40px;
+}
+.inspiration-link{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.img{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.inspiration-container-2{
+    width: 500px;
+    margin-left: 150px;
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+    margin-top: 48px;
+    height: 300px;
+}
+.inspiration-container-3{
+    width: 500px;
+    margin-left: 150px;
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+    margin-top: 48px;
+    height: 300px;
+}
+.inspiration{
+    display: flex;
+    gap:5px;
+    margin-left: 150px;
+    margin-right: 150px;
+    gap: 2px;
+}
