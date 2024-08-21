@@ -169,4 +169,40 @@ width: 1140px;
     
     font-size: 32px;
     font-weight: bold;
+    margin-top: 64px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.bg-img{
+    background-image:url(../assets/handshake.jpg);
+    width: 1200px;
+    height: 313px;
+    border-radius: 16px;
+    margin-left: 500px;
+    background-size: cover;
+    background-position: center;
+
+}
+.box{
+    width: 548px;
+    height: 30px;
+    margin-left: 200px;
+    border-radius: 8px;
+    margin-top: 16px;
+    font-size: 16px;
+padding-top: 23px;
+}
+.last-btn{
+    width: 120px;
+    height: 57px;
+    border-radius: 8px;
+    font-size:20px;
+    font-weight: 600;
+    margin-top: 16px;
+    background-color: white;
+}
+.form{
+    display: flex;
+    gap: 16px;
 }
