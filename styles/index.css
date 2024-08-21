@@ -206,3 +206,21 @@ padding-top: 23px;
     display: flex;
     gap: 16px;
 }
+nav{
+    display: flex;
+    margin-top: 118px;
+    justify-content: space-between;
+}
+nav h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 450px;
+    margin-bottom: 32px;
+}
+nav ul{
+    list-style: none;
+    margin-right: 450px;
+    display: flex;
+    gap: 25px;
+    margin-bottom: 32px;  
+}
