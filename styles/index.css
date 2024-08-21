@@ -145,3 +145,28 @@ background-color: white;
     margin-right: 150px;
     gap: 2px;
 }
+.target{
+    display: flex;
+    gap: 24px;
+border-radius: 16px;
+border: 1px solid rgba(13, 19, 33, 0.15);
+background-color:rgba(255, 255, 255, 1);
+padding: 30px;
+width: 1140px;
+}
+.target-img{
+    margin-left: 40px;
+    margin-right:2px;
+}
+.footer{
+    margin-left: 500px;
+    margin-top: 60px;
+}
+.margin{
+    margin-bottom: 24px;
+}
+.title-4{
+    
+    font-size: 32px;
+    font-weight: bold;
+}
